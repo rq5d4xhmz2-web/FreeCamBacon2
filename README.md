@@ -1,2 +1,0 @@
-# FreeCamBacon2
-FreeCamScript
